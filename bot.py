@@ -2,6 +2,7 @@ import discord
 import os
 from discord.ext import commands
 
+
 # Токен берём из Render переменной окружения
 TOKEN = os.getenv("DISCORD_TOKEN")
 
